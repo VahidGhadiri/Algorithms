@@ -16,4 +16,4 @@ const naiveSearch = (long, short) => {
 
 const test = "Hi my name is vahid ghadiri, and i'm doing my best to learn algorithms"
 
-console.log(naiveSearch(test, "vahid"))
+console.log(naiveSearch(test, "algorithms"))
